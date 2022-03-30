@@ -1,0 +1,8 @@
+.campign {
+  width: 30% !important;
+  display: inline-block;
+}
+.campign .form_group {
+  display: inline-block;
+  margin-left: 20px;
+}
